@@ -8,3 +8,6 @@ Scientific lines of life and mind
 
 ## 2. Illusion of Life
 <img src="./images/illusion of life.png" alt="illusion of life"/>
+
+## 3. Success
+<img src="./images/success.png" alt="illusion of life"/>
